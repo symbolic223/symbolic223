@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://cdn.discordapp.com/attachments/1221283286710485113/1261372124111573022/9xP8n0fEOHQ.jpg?ex=6692b7d5&is=66916655&hm=13a166530521a44654ea6685142ebc17d2c0fa7bbf589141158a2402794610b3&"  />
+  <img height="400" src="https://cdn.discordapp.com/attachments/1221283286710485113/1264565568112164905/453534534543535.png?ex=669e55f5&is=669d0475&hm=f29c7adf44c64d584b16a4bb9400f55ead9038682d67a3015216650849720b71&"  />
 </div>
 
 ###
