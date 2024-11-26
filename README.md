@@ -2,19 +2,19 @@
 
 ###
 
-<p align="center">че забыл здесь? 🤨</p>
+<p align="center" style = "font-size: 36px">че забыл здесь? 🤨</p>
 
 ###
 
-<h2 align="left">че я тут делаю</h2>
+<h2 align="center">че я тут делаю</h2>
 
 ###
 
-<h4 align="left">погремирую что та. <br>пишу в основном на:</h4>
+<h4 align="center">погремирую что та. <br>пишу в основном на:</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
